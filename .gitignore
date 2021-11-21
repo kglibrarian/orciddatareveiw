@@ -1,5 +1,6 @@
 #Ignore these files 
 config.py
+/output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
