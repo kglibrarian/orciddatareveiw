@@ -1,6 +1,6 @@
 #Ignore these files 
 config.py
-/output
+/outputs
 /data
 
 # Byte-compiled / optimized / DLL files
